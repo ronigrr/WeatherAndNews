@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherAndNews</string>
+    <string name="Please_wait">please_wait</string>
+
+    <string name="image_contentDescription">image</string>
+    <string name="miles_per_hour">miles/hour</string>
+</resources>
